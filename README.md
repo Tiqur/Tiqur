@@ -7,7 +7,7 @@
 ### About
 
 -  **Learning :** Backend Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C++, JavaScript, Go
+-  **Languages :** Python, C++, JavaScript, Go, Rust
 -  **Hobbies :** -------------------------------
 -  **Fact :** -------------------------------
 -  **Organization :** None
