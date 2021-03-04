@@ -1,7 +1,6 @@
 ### Tiqur
 ![GitHub followers](https://img.shields.io/github/followers/Tiqur?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tiqur)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 [![Gmail Badge](https://img.shields.io/badge/-TrevorBrage02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:TrevorBrage02@gmail.com)](mailto:TrevorBrage02@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
