@@ -8,7 +8,7 @@
 -  **Learning :** Backend Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, C++, JavaScript, Go, Rust
 -  **Hobbies :** -------------------------------
--  **Fact :** -------------------------------
+-  **Fact :** Giraffes are tall
 -  **Organization :** None
 
 ### Stats
